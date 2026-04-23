@@ -1,6 +1,6 @@
 # All Restaurants in Boston, Massachusetts, US
 
-> Free BeamStation sample export with 270 rows and masked direct-contact fields.
+> Free BeamStation sample export with 245 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `982207` |
 | Location | Boston |
 | Category | Restaurants |
-| Full dataset size | 2,703 records |
-| Free sample size | 270 records (9.99%) |
-| Last export | 2026-04-16T10:05:12.556112+00:00 |
+| Full dataset size | 2,452 records |
+| Free sample size | 245 records (9.99%) |
+| Last export | 2026-04-23T10:01:23.347942+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-boston-massachusetts-us-sample-982207/releases/download/sample-latest/beamstation_982207_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
