@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ce56e391-5a2b-4d03-a74e-ec328cf281f0",
+  "export_job_id": "b00b6919-7aae-435a-8615-0bbbe193853f",
   "id_short": 982207,
-  "published_at": "2026-04-23T19:16:10Z",
+  "published_at": "2026-04-30T19:21:58Z",
   "repo_name": "all-restaurants-in-boston-massachusetts-us-sample-982207",
   "sample_asset_name": "beamstation_982207_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/982207/beamstation_982207_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 245,
-  "sample_sha256": "df338b11d087c0020b7a8c5d7720f3e3f5af7d3810234389573f97501849a0c6",
-  "sample_size_bytes": 893618,
-  "total_records": 2452
+  "sample_records": 269,
+  "sample_sha256": "1f3eb1884ee145a94491a7ccc32b6d2d362fcb713d2dc1d879f21418f6407ff4",
+  "sample_size_bytes": 895619,
+  "total_records": 2699
 }
